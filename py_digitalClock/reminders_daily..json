@@ -1,0 +1,30 @@
+[
+    {
+        "task": "Task 1",
+        "description": "Prepare the weekly report",
+        "time": "12:00 PM",
+        "notes": "Include all sales data for the week",
+        "frequency": "weekly"
+    },
+    {
+        "task": "Task 2",
+        "description": "Team meeting",
+        "time": "01:58 PM",
+        "notes": "Discuss project updates and blockers",
+        "frequency": "daily"
+    },
+    {
+        "task": "Task 3",
+        "description": "Submit expense report",
+        "time": "02:59 PM",
+        "notes": "Ensure all receipts are attached",
+        "frequency": "monthly"
+    },
+    {
+        "task": "Task 4",
+        "description": "Call with client",
+        "time": "02:56 PM",
+        "notes": "Discuss contract renewal terms",
+        "frequency": "weekly"
+    }
+]
